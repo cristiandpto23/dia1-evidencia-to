@@ -20,3 +20,8 @@ function restar(a, b) {
 function multiplicar(a, b) {
     return a * b;
 }
+
+// funcion para dividir dos números
+function dividir(a, b) {
+    return a / b;
+}
