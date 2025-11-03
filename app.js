@@ -10,3 +10,8 @@ saludar('Desarrollador');
 function sumar(a, b) {
     return a + b;
 }
+
+// funcion para restar dos números
+function restar(a, b) {
+    return a - b;
+}
