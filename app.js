@@ -5,3 +5,8 @@ function saludar(nombre) {
 }
 
 saludar('Desarrollador');
+
+// funcion sumar dos números
+function sumar(a, b) {
+    return a + b;
+}
